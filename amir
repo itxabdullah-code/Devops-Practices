@@ -1,3 +1,4 @@
 #!/bin/bash
 
+echo "This file name is Amir."
 echo "It is newmain branch"
